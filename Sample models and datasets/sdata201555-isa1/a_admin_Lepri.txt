@@ -1,0 +1,5 @@
+Sample Name	Protocol REF	Assay Name	Raw Data File	Comment [Data Repository]	Comment [Data Record Accession]	Comment [Data Record URI]
+Milan_Administrative Regions	Administrative regions	administrative_regions_Milano	administrative_regions_Milano.json	Harvard Dataverse Network	doi:10.7910/DVN/KNMIVZ	http://dx.doi.org/10.7910/DVN/KNMIVZ
+Trentino_Administrative Regions	Administrative regions	administrative_regions_Trentino	administrative_regions_Trentino.json	Harvard Dataverse Network	doi:10.7910/DVN/KNMIVZ	http://dx.doi.org/10.7910/DVN/KNMIVZ
+Milan_Grid	Grid	Milano grid	milano-grid.geojson	Harvard Dataverse Network	doi:10.7910/DVN/QJWLFU	http://dx.doi.org/10.7910/DVN/QJWLFU
+Trentino_Grid	Grid	Trentino grid	trentino-grid.geojson	Harvard Dataverse Network	doi:10.7910/DVN/FZRVSX	http://dx.doi.org/10.7910/dvn/FZRVSX

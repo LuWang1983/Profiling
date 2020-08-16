@@ -1,0 +1,5 @@
+Sample Name	Protocol REF	Assay Name	Raw Data File	Comment [Data Repository]	Comment [Data Record Accession]	Comment [Data Record URI]
+Milan_News	News	MilanoToday	milanotoday--4653b933aa612604dfcc68a865e4b46a09abe833.geojson	Harvard Dataverse Network	doi:10.7910/DVN/QWOE1R	 http://dx.doi.org/10.7910/DVN/QWOE1R
+Trentino_News	News	TrentoToday	trentotoday.geojson	Harvard Dataverse Network	doi:10.7910/DVN/NYQ23N	http://dx.doi.org/10.7910/DVN/NYQ23N
+Milan_Social Pulse	Social Pulse	Social pulse - Milano	social-pulse-milano.geojson	Harvard Dataverse Network	doi:10.7910/DVN/9IZALB	http://dx.doi.org/10.7910/DVN/9IZALB
+Trentino_Social Pulse	Social Pulse	Social pulse - Trentino	social-pulse-trentino.geojson	Harvard Dataverse Network	doi:10.7910/DVN/5H0NUI	http://dx.doi.org/10.7910/DVN/5H0NUI

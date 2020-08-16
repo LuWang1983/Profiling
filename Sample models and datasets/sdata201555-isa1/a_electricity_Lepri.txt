@@ -1,0 +1,2 @@
+Sample Name	Protocol REF	Assay Name	Raw Data File	Comment [Data Repository]	Comment [Data Record Accession]	Comment [Data Record URI]
+Trentino_Electricity	SET Electricity	SET, electricity	SET, electricity	Harvard Dataverse Network	doi:10.7910/DVN/AMKZXM	http://dx.doi.org/10.7910/DVN/AMKZXM

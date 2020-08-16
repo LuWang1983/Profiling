@@ -1,0 +1,16 @@
+Source Name	Characteristics[geographical location]	Term Source REF	Term Accession Number	Characteristics[environment type]	Term Source REF	Term Accession Number	Protocol REF	Sample Name
+Telecom Italia	Milan	GAZ	GAZ:00007690	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Milan_Grid
+SpazioDati, DEIB	Milan	GAZ	GAZ:00007690	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Milan_Social Pulse
+Telecom Italia	Milan	GAZ	GAZ:00007690	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Milan_Telecommunications
+ARPA	Milan	GAZ	GAZ:00007690	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Milan_Precipitations
+ARPA	Milan	GAZ	GAZ:00007690	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Milan_Weather
+Citynews	Milan	GAZ	GAZ:00007690	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Milan_News
+ISTAT	Milan	GAZ	GAZ:00007690	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Milan_Administrative Regions
+Telecom Italia	Trentino-South Tyrol	GAZ	GAZ:00002674	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Trentino_Grid
+SpazioDati, DEIB	Trentino-South Tyrol	GAZ	GAZ:00002674	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Trentino_Social Pulse
+Telecom Italia	Trentino-South Tyrol	GAZ	GAZ:00002674	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Trentino_Telecommunications
+Meteotrentino	Trentino-South Tyrol	GAZ	GAZ:00002674	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Trentino_Precipitations
+ARPA	Trentino-South Tyrol	GAZ	GAZ:00002674	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Trentino_Weather
+SET Distribuzione SPA	Trentino-South Tyrol	GAZ	GAZ:00002674	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Trentino_Electricity
+Citynews	Trentino-South Tyrol	GAZ	GAZ:00002674	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Trentino_News
+ISTAT	Trentino-South Tyrol	GAZ	GAZ:00002674	anthropogenic habitat	ENVO	ENVO:00002031	Data collection	Trentino_Administrative Regions
