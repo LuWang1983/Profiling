@@ -1,6 +1,0 @@
-Sample Name	Protocol REF	Assay Name	Raw Data File	Comment [Data Repository]	Comment [Data Record Accession]	Comment [Data Record URI]
-Milan_Precipitations	Precipitation	Precipitation - Milano	MeteoMilano_01-11-13_01-01-14.csv	Harvard Dataverse Network	doi:10.7910/DVN/S2UGMD	http://dx.doi.org/10.7910/DVN/S2UGMD
-Trentino_Precipitations	Precipitation	Precipitation - Trentino	precipitation-trentino.csv	Harvard Dataverse Network	doi:10.7910/DVN/0RZVTA	http://dx.doi.org/10.7910/DVN/0RZVTA
-Milan_Weather	Weather station data	Milano weather station data	Milano weather station data	Harvard Dataverse Network	doi:10.7910/DVN/9Z6CKW	http://dx.doi.org/10.7910/DVN/9Z6CKW
-Trentino_Weather	Weather station data	"Meteotrentino weather station
-data"	meteotrentino-weather-station-data.geojson	Harvard Dataverse Network	doi:10.7910/DVN/UPODNL	http://dx.doi.org/10.7910/DVN/UPODNL
