@@ -15,7 +15,7 @@ git clone https://github.com/LuWang1983/Stackathon.git
 - Navigate to the folder that contains the repo
 
 ## 🗂️ Tags:
-#python #machinelearning #counterterrorism #algorithm #femaleSoftwareEngineers
+#python #machinelearning #counterterrorism #algorithm #femaleSoftwareEngineers #numpy #pandas #data
 
 
 
