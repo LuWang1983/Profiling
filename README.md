@@ -18,4 +18,5 @@ git clone https://github.com/LuWang1983/Stackathon.git
 #python #machinelearning #counterterrorism #algorithm #femaleSoftwareEngineers #numpy #pandas #data
 
 
-
+### Disclaimer:
+This project is for research only. The dataset is owned solely by [National Consortium for the Study of Terrorism and Responses to Terrorism](https://start.umd.edu/).
